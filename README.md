@@ -20,9 +20,6 @@ Designed for students, professionals, and anyone who wants food delivered fresh 
 
 ---
 
-## 🖼️ Preview
-> Coming soon — add screenshots or a live demo link once hosted!
-
 ---
 
 ## 🧰 How to Run Locally
