@@ -20,8 +20,6 @@ Designed for students, professionals, and anyone who wants food delivered fresh 
 
 ---
 
----
-
 ## 🧰 How to Run Locally
 1. Clone this repo  
    ```bash
